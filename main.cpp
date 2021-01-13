@@ -9,12 +9,12 @@ int sum(int x, int y)
 }
 
 int main() {
-    int dig1;
-    int dig2;
-    cout << "Enter the first digit: ";
-    cin >> dig1;
-    cout << "Enter the second digit: ";
-    cin >> dig2;
-    cout << "The sum of the two digits is " << sum(dig1,dig2) << ".";
+    int num1;
+    int num2;
+    cout << "Enter the first number: ";
+    cin >> num1;
+    cout << "Enter the second number: ";
+    cin >> num2;
+    cout << "The sum of the two numbers is " << sum(num1,num2) << ".";
     return 0;
 }
