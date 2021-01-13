@@ -1,2 +1,2 @@
 # Return-the-Sum-of-Two-Numbers
-It's just a basic exercise that I'll be coding.
+Simple C++ code that returns sum of two given numbers.
