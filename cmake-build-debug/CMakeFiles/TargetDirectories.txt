@@ -1,0 +1,3 @@
+/Users/lubo/CLionProjects/Return-the-Sum-of-Two-Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lubo/CLionProjects/Return-the-Sum-of-Two-Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lubo/CLionProjects/Return-the-Sum-of-Two-Numbers/cmake-build-debug/CMakeFiles/Return_the_Sum_of_Two_Numbers.dir
